@@ -1,3 +1,5 @@
+#Adding conflict line 
+
 #New code 
 
 This is *italic*, and then **bold**
