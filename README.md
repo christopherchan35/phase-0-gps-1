@@ -11,7 +11,7 @@
 205  git commit -m "inital commit, add awesome_page file"
     - commit staged files with message
 206  git push origin master
-    - pushes from origin to master
+    - pushes master to remote named origin (github repo)
 207  git branch
     - shows all branches
 208  git co -b add-command-log
